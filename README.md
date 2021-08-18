@@ -1,3 +1,5 @@
+# ESlint + Prettier + Airbnb Style Guide Configuration
+
 ### Usage
 ```console
 npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node
