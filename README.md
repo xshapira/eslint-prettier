@@ -2,7 +2,7 @@
 
 ### Usage
 ```bash
-npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node
+npm i -D eslint prettier eslint-plugin-prettier eslint-config-prettier eslint-plugin-node eslint-config-node @babel/eslint-parser
 ```
 
 ```bash
